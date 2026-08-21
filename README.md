@@ -80,7 +80,6 @@ Structured into analytical areas, each mapped to a business requirement (extende
 | Phase 1 | ER diagram of Olist tables | ⬜ Not Started |
 | Phase 1 | First SQL queries on dataset | ⬜ Not Started |
 
-*(Updated as the program progresses)*
 
 ---
 
